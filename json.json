@@ -1,0 +1,1454 @@
+[
+  {
+    "IdEmpleado": 1,
+    "Nombre": "Mansur, Manuel 1",
+    "Legajo": 1000,
+    "Cargo": {
+      "IdEmpleadoCargo": 1,
+      "IdEmpleado": 1,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 1,
+        "IdEmpleado": 1,
+        "Cargo": "1000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 1,
+        "IdEmpleado": 1,
+        "Cargo": "1000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 1,
+        "IdEmpleado": 1,
+        "Cargo": "1000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 2,
+    "Nombre": "Mansur, Manuel 2",
+    "Legajo": 2000,
+    "Cargo": {
+      "IdEmpleadoCargo": 2,
+      "IdEmpleado": 2,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 2,
+        "IdEmpleado": 2,
+        "Cargo": "2000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 2,
+        "IdEmpleado": 2,
+        "Cargo": "2000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 2,
+        "IdEmpleado": 2,
+        "Cargo": "2000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 3,
+    "Nombre": "Mansur, Manuel 3",
+    "Legajo": 3000,
+    "Cargo": {
+      "IdEmpleadoCargo": 3,
+      "IdEmpleado": 3,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 3,
+        "IdEmpleado": 3,
+        "Cargo": "3000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 3,
+        "IdEmpleado": 3,
+        "Cargo": "3000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 3,
+        "IdEmpleado": 3,
+        "Cargo": "3000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 4,
+    "Nombre": "Mansur, Manuel 4",
+    "Legajo": 4000,
+    "Cargo": {
+      "IdEmpleadoCargo": 4,
+      "IdEmpleado": 4,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 4,
+        "IdEmpleado": 4,
+        "Cargo": "4000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 4,
+        "IdEmpleado": 4,
+        "Cargo": "4000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 4,
+        "IdEmpleado": 4,
+        "Cargo": "4000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 5,
+    "Nombre": "Mansur, Manuel 5",
+    "Legajo": 5000,
+    "Cargo": {
+      "IdEmpleadoCargo": 5,
+      "IdEmpleado": 5,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 5,
+        "IdEmpleado": 5,
+        "Cargo": "5000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 5,
+        "IdEmpleado": 5,
+        "Cargo": "5000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 5,
+        "IdEmpleado": 5,
+        "Cargo": "5000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 6,
+    "Nombre": "Mansur, Manuel 6",
+    "Legajo": 6000,
+    "Cargo": {
+      "IdEmpleadoCargo": 6,
+      "IdEmpleado": 6,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 6,
+        "IdEmpleado": 6,
+        "Cargo": "6000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 6,
+        "IdEmpleado": 6,
+        "Cargo": "6000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 6,
+        "IdEmpleado": 6,
+        "Cargo": "6000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 7,
+    "Nombre": "Mansur, Manuel 7",
+    "Legajo": 7000,
+    "Cargo": {
+      "IdEmpleadoCargo": 7,
+      "IdEmpleado": 7,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 7,
+        "IdEmpleado": 7,
+        "Cargo": "7000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 7,
+        "IdEmpleado": 7,
+        "Cargo": "7000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 7,
+        "IdEmpleado": 7,
+        "Cargo": "7000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 8,
+    "Nombre": "Mansur, Manuel 8",
+    "Legajo": 8000,
+    "Cargo": {
+      "IdEmpleadoCargo": 8,
+      "IdEmpleado": 8,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 8,
+        "IdEmpleado": 8,
+        "Cargo": "8000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 8,
+        "IdEmpleado": 8,
+        "Cargo": "8000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 8,
+        "IdEmpleado": 8,
+        "Cargo": "8000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 9,
+    "Nombre": "Mansur, Manuel 9",
+    "Legajo": 9000,
+    "Cargo": {
+      "IdEmpleadoCargo": 9,
+      "IdEmpleado": 9,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 9,
+        "IdEmpleado": 9,
+        "Cargo": "9000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 9,
+        "IdEmpleado": 9,
+        "Cargo": "9000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 9,
+        "IdEmpleado": 9,
+        "Cargo": "9000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 10,
+    "Nombre": "Mansur, Manuel 10",
+    "Legajo": 10000,
+    "Cargo": {
+      "IdEmpleadoCargo": 10,
+      "IdEmpleado": 10,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 10,
+        "IdEmpleado": 10,
+        "Cargo": "10000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 10,
+        "IdEmpleado": 10,
+        "Cargo": "10000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 10,
+        "IdEmpleado": 10,
+        "Cargo": "10000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 11,
+    "Nombre": "Mansur, Manuel 11",
+    "Legajo": 11000,
+    "Cargo": {
+      "IdEmpleadoCargo": 11,
+      "IdEmpleado": 11,
+      "Cargo": "Meritorio",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Desarrollo",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 11,
+        "IdEmpleado": 11,
+        "Cargo": "11000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 11,
+        "IdEmpleado": 11,
+        "Cargo": "11000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 11,
+        "IdEmpleado": 11,
+        "Cargo": "11000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 12,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd12",
+    "Legajo": 12000,
+    "Cargo": {
+      "IdEmpleadoCargo": 12,
+      "IdEmpleado": 12,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 12,
+        "IdEmpleado": 12,
+        "Cargo": "12000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 12,
+        "IdEmpleado": 12,
+        "Cargo": "12000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 12,
+        "IdEmpleado": 12,
+        "Cargo": "12000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 13,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd13",
+    "Legajo": 13000,
+    "Cargo": {
+      "IdEmpleadoCargo": 13,
+      "IdEmpleado": 13,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 13,
+        "IdEmpleado": 13,
+        "Cargo": "13000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 13,
+        "IdEmpleado": 13,
+        "Cargo": "13000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 13,
+        "IdEmpleado": 13,
+        "Cargo": "13000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 14,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd14",
+    "Legajo": 14000,
+    "Cargo": {
+      "IdEmpleadoCargo": 14,
+      "IdEmpleado": 14,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 14,
+        "IdEmpleado": 14,
+        "Cargo": "14000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 14,
+        "IdEmpleado": 14,
+        "Cargo": "14000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 14,
+        "IdEmpleado": 14,
+        "Cargo": "14000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 15,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd15",
+    "Legajo": 15000,
+    "Cargo": {
+      "IdEmpleadoCargo": 15,
+      "IdEmpleado": 15,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 15,
+        "IdEmpleado": 15,
+        "Cargo": "15000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 15,
+        "IdEmpleado": 15,
+        "Cargo": "15000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 15,
+        "IdEmpleado": 15,
+        "Cargo": "15000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 16,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd16",
+    "Legajo": 16000,
+    "Cargo": {
+      "IdEmpleadoCargo": 16,
+      "IdEmpleado": 16,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 16,
+        "IdEmpleado": 16,
+        "Cargo": "16000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 16,
+        "IdEmpleado": 16,
+        "Cargo": "16000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 16,
+        "IdEmpleado": 16,
+        "Cargo": "16000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 17,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd17",
+    "Legajo": 17000,
+    "Cargo": {
+      "IdEmpleadoCargo": 17,
+      "IdEmpleado": 17,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 17,
+        "IdEmpleado": 17,
+        "Cargo": "17000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 17,
+        "IdEmpleado": 17,
+        "Cargo": "17000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 17,
+        "IdEmpleado": 17,
+        "Cargo": "17000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 18,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd18",
+    "Legajo": 18000,
+    "Cargo": {
+      "IdEmpleadoCargo": 18,
+      "IdEmpleado": 18,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 18,
+        "IdEmpleado": 18,
+        "Cargo": "18000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 18,
+        "IdEmpleado": 18,
+        "Cargo": "18000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 18,
+        "IdEmpleado": 18,
+        "Cargo": "18000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 19,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd19",
+    "Legajo": 19000,
+    "Cargo": {
+      "IdEmpleadoCargo": 19,
+      "IdEmpleado": 19,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 19,
+        "IdEmpleado": 19,
+        "Cargo": "19000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 19,
+        "IdEmpleado": 19,
+        "Cargo": "19000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 19,
+        "IdEmpleado": 19,
+        "Cargo": "19000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 20,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd20",
+    "Legajo": 20000,
+    "Cargo": {
+      "IdEmpleadoCargo": 20,
+      "IdEmpleado": 20,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 20,
+        "IdEmpleado": 20,
+        "Cargo": "20000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 20,
+        "IdEmpleado": 20,
+        "Cargo": "20000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 20,
+        "IdEmpleado": 20,
+        "Cargo": "20000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 21,
+    "Nombre": "Cresto, Mariano del valle menardi aaa aaaa asasas fgtretgrefegfd21",
+    "Legajo": 21000,
+    "Cargo": {
+      "IdEmpleadoCargo": 21,
+      "IdEmpleado": 21,
+      "Cargo": "Oficial",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Recursos Humanos",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 21,
+        "IdEmpleado": 21,
+        "Cargo": "21000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 21,
+        "IdEmpleado": 21,
+        "Cargo": "21000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 21,
+        "IdEmpleado": 21,
+        "Cargo": "21000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 22,
+    "Nombre": "Bustos, Sebastian 22",
+    "Legajo": 22000,
+    "Cargo": {
+      "IdEmpleadoCargo": 22,
+      "IdEmpleado": 22,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 22,
+        "IdEmpleado": 22,
+        "Cargo": "22000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 22,
+        "IdEmpleado": 22,
+        "Cargo": "22000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 22,
+        "IdEmpleado": 22,
+        "Cargo": "22000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 23,
+    "Nombre": "Bustos, Sebastian 23",
+    "Legajo": 23000,
+    "Cargo": {
+      "IdEmpleadoCargo": 23,
+      "IdEmpleado": 23,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 23,
+        "IdEmpleado": 23,
+        "Cargo": "23000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 23,
+        "IdEmpleado": 23,
+        "Cargo": "23000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 23,
+        "IdEmpleado": 23,
+        "Cargo": "23000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 24,
+    "Nombre": "Bustos, Sebastian 24",
+    "Legajo": 24000,
+    "Cargo": {
+      "IdEmpleadoCargo": 24,
+      "IdEmpleado": 24,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 24,
+        "IdEmpleado": 24,
+        "Cargo": "24000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 24,
+        "IdEmpleado": 24,
+        "Cargo": "24000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 24,
+        "IdEmpleado": 24,
+        "Cargo": "24000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 25,
+    "Nombre": "Bustos, Sebastian 25",
+    "Legajo": 25000,
+    "Cargo": {
+      "IdEmpleadoCargo": 25,
+      "IdEmpleado": 25,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 25,
+        "IdEmpleado": 25,
+        "Cargo": "25000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 25,
+        "IdEmpleado": 25,
+        "Cargo": "25000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 25,
+        "IdEmpleado": 25,
+        "Cargo": "25000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 26,
+    "Nombre": "Bustos, Sebastian 26",
+    "Legajo": 26000,
+    "Cargo": {
+      "IdEmpleadoCargo": 26,
+      "IdEmpleado": 26,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 26,
+        "IdEmpleado": 26,
+        "Cargo": "26000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 26,
+        "IdEmpleado": 26,
+        "Cargo": "26000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 26,
+        "IdEmpleado": 26,
+        "Cargo": "26000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 27,
+    "Nombre": "Bustos, Sebastian 27",
+    "Legajo": 27000,
+    "Cargo": {
+      "IdEmpleadoCargo": 27,
+      "IdEmpleado": 27,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 27,
+        "IdEmpleado": 27,
+        "Cargo": "27000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 27,
+        "IdEmpleado": 27,
+        "Cargo": "27000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 27,
+        "IdEmpleado": 27,
+        "Cargo": "27000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 28,
+    "Nombre": "Bustos, Sebastian 28",
+    "Legajo": 28000,
+    "Cargo": {
+      "IdEmpleadoCargo": 28,
+      "IdEmpleado": 28,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 28,
+        "IdEmpleado": 28,
+        "Cargo": "28000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 28,
+        "IdEmpleado": 28,
+        "Cargo": "28000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 28,
+        "IdEmpleado": 28,
+        "Cargo": "28000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 29,
+    "Nombre": "Bustos, Sebastian 29",
+    "Legajo": 29000,
+    "Cargo": {
+      "IdEmpleadoCargo": 29,
+      "IdEmpleado": 29,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 29,
+        "IdEmpleado": 29,
+        "Cargo": "29000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 29,
+        "IdEmpleado": 29,
+        "Cargo": "29000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 29,
+        "IdEmpleado": 29,
+        "Cargo": "29000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 30,
+    "Nombre": "Bustos, Sebastian 30",
+    "Legajo": 30000,
+    "Cargo": {
+      "IdEmpleadoCargo": 30,
+      "IdEmpleado": 30,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 30,
+        "IdEmpleado": 30,
+        "Cargo": "30000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 30,
+        "IdEmpleado": 30,
+        "Cargo": "30000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 30,
+        "IdEmpleado": 30,
+        "Cargo": "30000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 31,
+    "Nombre": "Bustos, Sebastian 31",
+    "Legajo": 31000,
+    "Cargo": {
+      "IdEmpleadoCargo": 31,
+      "IdEmpleado": 31,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 31,
+        "IdEmpleado": 31,
+        "Cargo": "31000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 31,
+        "IdEmpleado": 31,
+        "Cargo": "31000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 31,
+        "IdEmpleado": 31,
+        "Cargo": "31000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 32,
+    "Nombre": "Bustos, Sebastian 32",
+    "Legajo": 32000,
+    "Cargo": {
+      "IdEmpleadoCargo": 32,
+      "IdEmpleado": 32,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 32,
+        "IdEmpleado": 32,
+        "Cargo": "32000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 32,
+        "IdEmpleado": 32,
+        "Cargo": "32000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 32,
+        "IdEmpleado": 32,
+        "Cargo": "32000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  },
+  {
+    "IdEmpleado": 33,
+    "Nombre": "Bustos, Sebastian 33",
+    "Legajo": 33000,
+    "Cargo": {
+      "IdEmpleadoCargo": 33,
+      "IdEmpleado": 33,
+      "Cargo": "Secretario",
+      "Tipo": {
+        "IdCargoTipo": 1,
+        "Descripcion": "General"
+      }
+    },
+    "Oficina": "Mantenimiento",
+    "CargosHist": [
+      {
+        "IdEmpleadoCargo": 33,
+        "IdEmpleado": 33,
+        "Cargo": "33000 - Meritorio",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 33,
+        "IdEmpleado": 33,
+        "Cargo": "33000 - Oficial",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      },
+      {
+        "IdEmpleadoCargo": 33,
+        "IdEmpleado": 33,
+        "Cargo": "33000 - Secretario",
+        "Tipo": {
+          "IdCargoTipo": 1,
+          "Descripcion": "General"
+        }
+      }
+    ]
+  }
+]
